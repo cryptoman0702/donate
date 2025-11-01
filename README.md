@@ -1,1 +1,8 @@
-# donate
+Bitcoin
+bc1qlhmejv4ed77kaylyvs0qr9rrthaxzfg4ufus3c
+
+Ethereum,BNB
+0xc36A752351Cc828521A94ff163F65D5536117063
+
+Solana
+GJRaAcTnyeaekAVHBpPc2Gewd3D9HmB61iEQCtp2iNFx
